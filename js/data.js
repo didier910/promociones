@@ -44,7 +44,7 @@ const promociones = [
         id: 6,
         empresa: 'Chopo',
         urlImg: 'img/chopo.png',
-        highLight: '20%',
+        highLight: '15%',
         desc: 'en estudios de gabinete',
         vigencia: '10/31/2022'
     },
@@ -52,7 +52,7 @@ const promociones = [
         id: 7,
         empresa: 'Chopo',
         urlImg: 'img/chopo.png',
-        highLight: '20%',
+        highLight: '5%',
         desc: 'en estudios especiales',
         vigencia: '10/31/2022'
     },
