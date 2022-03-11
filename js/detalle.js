@@ -3,7 +3,7 @@ const detalle = [
     Empresa: "¡KATAPLUM!",
     Id: 1,
     Imagen: "'img/kataplum.png'",
-    Highlight: "-$40",
+    Highlight: "$40",
     Texto: "descuento en Kaporte",
     Vigencia: "12/31/2022",
     MensajeLargo: "Kataporte de $190 a $150 pesos",
@@ -36,41 +36,10 @@ const detalle = [
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
   },
   {
-    Empresa: "Acuario Interactivo",
-    Id: 3,
-    Imagen: "'img/acuario.png'",
-    Highlight: "-15%",
-    Texto: "en pase marino",
-    Vigencia: "6/30/2022",
-    MensajeLargo: "15% de descuento sobre el total de compra en Pase Marino",
-    ComoAplicarlo: "Menciona la promoción y paga con tu tarjeta en taquilla",
-    Restricciones:
-      "- El cliente deberá llamar al teléfono de atención a clientes al 55 5395 4586 indicar el número de personas, fecha y hora de visita, mencionar la promoción con Banco Azteca y realizar una reservación.\n- Posteriormente dirigirse a la taquilla general del Acuario Inbursa o Acuario Interactivo el día y hora de la reservación para hacer el pago con el descuento y obtener lo boletos de entrada.\n- El cliente deberá pagar con alguna de las Tarjetas de Banco Azteca participantes para recibir el beneficio\n- El cliente recibirá el 15% de descuento sobre el total de su compra en pase marino.",
-    TyCt: "Consulta términos, condiciones y responsable de la promoción ",
-    TyCl: "aquí",
-    TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
-  },
-  {
-    Empresa: "Acuario Interactivo",
-    Id: 4,
-    Imagen: "'img/acuario.png'",
-    Highlight: "-15%",
-    Texto: "en fotografía",
-    Vigencia: "6/30/2022",
-    MensajeLargo: "15% de descuento en fotografía de bienvenida",
-    ComoAplicarlo:
-      "Menciona la promoción y paga con tu tarjeta en el módulo de fotos",
-    Restricciones:
-      "- El cliente deberá haberse tomado una fotografía en el set de bienvenida al inicio de su recorrido en el Acuario Inbursa o Acuario Interactivo.\n- El cliente deberá dirigirse al módulo de fotografías que se encuentra al final del recorrido para visualizar su fotografía y ahí mencionar la promoción.\n- El cliente deberá pagar con alguna de las Tarjetas de Banco Azteca participantes para recibir el beneficio.\n- El cliente recibirá el 15% de descuento sobre el costo total de su fotografía.",
-    TyCt: "Consulta términos, condiciones y responsable de la promoción ",
-    TyCl: "aquí",
-    TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
-  },
-  {
     Empresa: "aspik",
-    Id: 5,
+    Id: 3,
     Imagen: "'img/aspik.png'",
-    Highlight: "-15%",
+    Highlight: "15%",
     Texto: "de descuento en línea",
     Vigencia: "6/30/2022",
     MensajeLargo: "15% de descuento en mercancía de línea",
@@ -83,9 +52,9 @@ const detalle = [
   },
   {
     Empresa: "Cabify",
-    Id: 6,
+    Id: 4,
     Imagen: "'img/cabify.png'",
-    Highlight: "-50%",
+    Highlight: "50%",
     Texto: "descuento en viajes",
     Vigencia: "4/30/2022",
     MensajeLargo: "50% de descuento en los primeros 4 viajes o envíos",
@@ -98,9 +67,9 @@ const detalle = [
   },
   {
     Empresa: "Chopo",
-    Id: 7,
+    Id: 5,
     Imagen: "'img/chopo.png'",
-    Highlight: "-20%",
+    Highlight: "20%",
     Texto: "En laboratorio",
     Vigencia: "10/31/2022",
     MensajeLargo: "20% de descuento en estudios de Laboratorio",
@@ -114,9 +83,9 @@ const detalle = [
   },
   {
     Empresa: "Chopo",
-    Id: 8,
+    Id: 6,
     Imagen: "'img/chopo.png'",
-    Highlight: "-15%",
+    Highlight: "15%",
     Texto: "en estudios de gabinete",
     Vigencia: "10/31/2022",
     MensajeLargo: "15% de descuento en estudios de Gabinete",
@@ -130,9 +99,9 @@ const detalle = [
   },
   {
     Empresa: "Chopo",
-    Id: 9,
+    Id: 7,
     Imagen: "'img/chopo.png'",
-    Highlight: "-5%",
+    Highlight: "5%",
     Texto: "en estudio especiales",
     Vigencia: "10/31/2022",
     MensajeLargo: "5% de descuento en estudios Especiales",
@@ -146,9 +115,9 @@ const detalle = [
   },
   {
     Empresa: "Chopo",
-    Id: 10,
+    Id: 8,
     Imagen: "'img/chopo.png'",
-    Highlight: "-3%",
+    Highlight: "3%",
     Texto: "adicional a promos",
     Vigencia: "10/31/2022",
     MensajeLargo: "3% adicional en promociones en sucursales",
@@ -162,9 +131,9 @@ const detalle = [
   },
   {
     Empresa: "ClickBus",
-    Id: 11,
+    Id: 9,
     Imagen: "'img/clickbus.png'",
-    Highlight: "-10%",
+    Highlight: "10%",
     Texto: "de descuento en rutas",
     Vigencia: "7/15/2022",
     MensajeLargo: "10% de descuento en todas las rutas",
@@ -178,7 +147,7 @@ const detalle = [
   },
   {
     Empresa: "COSTCO",
-    Id: 12,
+    Id: 10,
     Imagen: "'img/costco.png'",
     Highlight: "$250",
     Texto: "en monedero electrónico",
@@ -194,26 +163,10 @@ const detalle = [
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
   },
   {
-    Empresa: "Cuponatic",
-    Id: 13,
-    Imagen: "'img/cuponatic.png'",
-    Highlight: "10%",
-    Texto: "de cashback",
-    Vigencia: "5/31/2022",
-    MensajeLargo: "bonificación del 10% del total de tu compra",
-    ComoAplicarlo:
-      "Ingresa el código CASHBACKAZTECA al finalizar la compra con tu cuenta baz",
-    Restricciones:
-      "- No aplica con otras promociones o descuentos.\n- El beneficio no podrá ser cambiado por dinero en efectivo.\n- Aplica para clientes nuevos y registrados en el sitio web.\n- La bonificación máxima es de $120 pesos.",
-    TyCt: "Consulta términos, condiciones y responsable de la promoción ",
-    TyCl: "aquí",
-    TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
-  },
-  {
     Empresa: "DEVLYN",
-    Id: 14,
+    Id: 11,
     Imagen: "'img/devlyn.png'",
-    Highlight: "-15%",
+    Highlight: "15%",
     Texto: "descuento en armazones y más",
     Vigencia: "12/31/2022",
     MensajeLargo:
@@ -227,9 +180,9 @@ const detalle = [
   },
   {
     Empresa: "DEVLYN",
-    Id: 15,
+    Id: 12,
     Imagen: "'img/devlyn.png'",
-    Highlight: "-5%",
+    Highlight: "5%",
     Texto: "adicional en compras en línea",
     Vigencia: "12/31/2022",
     MensajeLargo:
@@ -244,9 +197,9 @@ const detalle = [
   },
   {
     Empresa: "Doto",
-    Id: 16,
+    Id: 13,
     Imagen: "'img/doto.png'",
-    Highlight: "-$100",
+    Highlight: "$100",
     Texto: "de descuento",
     Vigencia: "6/30/2022",
     MensajeLargo: "$100 de descuento en compra mínima de $2,000",
@@ -259,9 +212,9 @@ const detalle = [
   },
   {
     Empresa: "Elektra",
-    Id: 17,
+    Id: 14,
     Imagen: "'img/elektra.png'",
-    Highlight: "-5%",
+    Highlight: "5%",
     Texto: "descuento adicional",
     Vigencia: "5/31/2022",
     MensajeLargo: "5% de descuento + ofertas vigentes + envío a domicilio",
@@ -274,9 +227,9 @@ const detalle = [
   },
   {
     Empresa: "flexi",
-    Id: 18,
+    Id: 15,
     Imagen: "'img/flexi.png'",
-    Highlight: "-10%",
+    Highlight: "10%",
     Texto: "descuento en calzado",
     Vigencia: "4/30/2022",
     MensajeLargo:
@@ -291,9 +244,9 @@ const detalle = [
   },
   {
     Empresa: "Harmon Hall",
-    Id: 19,
-    Imagen: "'img/harmonhall.png'",
-    Highlight: "-$500",
+    Id: 16,
+    Imagen: "img/harmanhall.png",
+    Highlight: "$500",
     Texto: "en colegiaturas (hasta*)",
     Vigencia: "6/30/2022",
     MensajeLargo: "Hasta $500 pesos de descuento en colegiaturas",
@@ -307,9 +260,9 @@ const detalle = [
   },
   {
     Empresa: "JULIO",
-    Id: 20,
+    Id: 17,
     Imagen: "'img/julio.png'",
-    Highlight: "-10%",
+    Highlight: "10%",
     Texto: "descuento en temporada",
     Vigencia: "12/31/2022",
     MensajeLargo: "10% de descuento en mercancía de temporada",
@@ -323,9 +276,9 @@ const detalle = [
   },
   {
     Empresa: "KFC",
-    Id: 21,
+    Id: 18,
     Imagen: "'img/kfc.png'",
-    Highlight: "-$66",
+    Highlight: "$66",
     Texto: "en combo Crujipollo",
     Vigencia: "7/18/2022",
     MensajeLargo:
@@ -343,9 +296,9 @@ const detalle = [
   },
   {
     Empresa: "KFC",
-    Id: 22,
+    Id: 19,
     Imagen: "'img/kfc.png'",
-    Highlight: "-$67",
+    Highlight: "$67",
     Texto: "en combo 14 piezas",
     Vigencia: "7/18/2022",
     MensajeLargo:
@@ -363,9 +316,9 @@ const detalle = [
   },
   {
     Empresa: "KFC",
-    Id: 23,
+    Id: 20,
     Imagen: "'img/kfc.png'",
-    Highlight: "-$36",
+    Highlight: "$36",
     Texto: "en combo Ke-tiras",
     Vigencia: "7/18/2022",
     MensajeLargo: "3 Ke Tiras + 1 refresco + 1 puré individual de $119 a $83",
@@ -382,9 +335,9 @@ const detalle = [
   },
   {
     Empresa: "Krispy Kreme",
-    Id: 24,
+    Id: 21,
     Imagen: "'img/krispy.png'",
-    Highlight: "-10%",
+    Highlight: "10%",
     Texto: "descuento en el total",
     Vigencia: "6/30/2022",
     MensajeLargo: "10% de descuento en el total de la cuenta",
@@ -397,9 +350,9 @@ const detalle = [
   },
   {
     Empresa: "La Generosa",
-    Id: 25,
+    Id: 22,
     Imagen: "'img/lagenerosa.png'",
-    Highlight: "-25%",
+    Highlight: "25%",
     Texto: "descuento en lunes",
     Vigencia: "5/31/2022",
     MensajeLargo:
@@ -412,9 +365,9 @@ const detalle = [
   },
   {
     Empresa: "La Generosa",
-    Id: 26,
+    Id: 23,
     Imagen: "img/lagenerosa.png",
-    Highlight: "-10%",
+    Highlight: "10%",
     Texto: "descuento (mar - dom)",
     Vigencia: "5/31/2022",
     MensajeLargo:
@@ -426,24 +379,10 @@ const detalle = [
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
   },
   {
-    Empresa: "Nailkery",
-    Id: 27,
-    Imagen: "'img/nailkery.png'",
-    Highlight: "-15%",
-    Texto: "sobre precio de lista",
-    Vigencia: "3/31/2022",
-    MensajeLargo: "15% sobre precio de lista en servicio de uñas",
-    ComoAplicarlo: "",
-    Restricciones: "",
-    TyCt: "Consulta términos, condiciones y responsable de la promoción ",
-    TyCl: "aquí",
-    TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
-  },
-  {
     Empresa: "Óptica Americana",
-    Id: 28,
+    Id: 24,
     Imagen: "'img/americana.png'",
-    Highlight: "-15%",
+    Highlight: "15%",
     Texto: "en compra de anteojos",
     Vigencia: "6/30/2022",
     MensajeLargo: "15% de descuento en la compra de anteojos completo",
@@ -455,9 +394,9 @@ const detalle = [
   },
   {
     Empresa: "Rinna Bruni",
-    Id: 29,
+    Id: 25,
     Imagen: "'img/rb.png'",
-    Highlight: "-10%",
+    Highlight: "10%",
     Texto: "descuento en tienda",
     Vigencia: "6/30/2022",
     MensajeLargo: "10% de descuento en tienda física y en línea",
@@ -469,7 +408,7 @@ const detalle = [
   },
   {
     Empresa: "undostres",
-    Id: 30,
+    Id: 26,
     Imagen: "'img/undostres.png'",
     Highlight: "$75",
     Texto: "bonificación en saldo",
@@ -484,9 +423,9 @@ const detalle = [
   },
   {
     Empresa: "Viajes Libertad",
-    Id: 31,
+    Id: 27,
     Imagen: "'img/viajes.png'",
-    Highlight: "-10%",
+    Highlight: "10%",
     Texto: "descuento sobre total",
     Vigencia: "10/31/2022",
     MensajeLargo: "10% de descuento en cuenta total.   (Paquetes y Hoteles)",
@@ -498,9 +437,9 @@ const detalle = [
   },
   {
     Empresa: "VIPS",
-    Id: 32,
+    Id: 28,
     Imagen: "'img/vips.png'",
-    Highlight: "-25%",
+    Highlight: "25%",
     Texto: "descuento con código",
     Vigencia: "12/31/2022",
     MensajeLargo:
@@ -513,27 +452,13 @@ const detalle = [
   },
   {
     Empresa: "volaris",
-    Id: 33,
+    Id: 29,
     Imagen: "'img/volaris.png'",
-    Highlight: "-55%",
+    Highlight: "55%",
     Texto: "de descuento (*hasta)",
     Vigencia: "3/23/2022",
     MensajeLargo:
       "Hasta 55 % de descuento en vuelos nacionales e internacionales para volar en agosto 2022.",
-    ComoAplicarlo: "",
-    Restricciones: "",
-    TyCt: "Consulta términos, condiciones y responsable de la promoción ",
-    TyCl: "aquí",
-    TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
-  },
-  {
-    Empresa: "Benedetti's",
-    Id: 34,
-    Imagen: "'img/benedettis.png'",
-    Highlight: "-25%",
-    Texto: "en pizza grande",
-    Vigencia: "En negociación",
-    MensajeLargo: "25% de descuento en pizza grande de 2 ingredientes en App .",
     ComoAplicarlo: "",
     Restricciones: "",
     TyCt: "Consulta términos, condiciones y responsable de la promoción ",
@@ -554,7 +479,7 @@ const verDetalle = (element) => {
             <p>${element.MensajeLargo}</p>
         </div>`;
 
-  if (element.Id === 21 || element.Id === 22 || element.Id === 23) {
+  if (element.Empresa === "KFC" ) {
     container.innerHTML += `
       <div class="container-aviso">
         <p>${element.ComoAplicarlo}

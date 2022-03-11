@@ -30,10 +30,10 @@ body {
     display: flex;
     flex-direction: row;
     align-items: center;
-    padding: 10px;
-    width: 350px;
+    padding: 5px;
+    width: 360px;
     height: auto;
-    /* gap: 15px; */
+    gap: 10px;
 }
 
 .container-img img {
@@ -42,7 +42,7 @@ body {
 }
 
 .container-img h1 {
-    width: 120px;
+    width: 150px;
     height: 80px;
     font-size: 50px;
     font-weight: bold;

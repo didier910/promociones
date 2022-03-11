@@ -14,6 +14,7 @@ body{
     width: 328px;
     height: 104px;
     box-shadow: 0px 0px 3px 0px darkgrey;
+    color: #000;
 }
 
 .journal__entry-picture{

@@ -5,9 +5,10 @@ const verPromociones= ()=> {
     let container = document.querySelector(".content");
 
     promociones.forEach( element => {        
-        container.innerHTML += "<div class=\"journal__entry\">" + 
+        container.innerHTML += `<a href=\"detalle.html?id=${element.id}\">`+
+                                "<div class=\"journal__entry\">" + 
                                 "<div class=\"journal__entry-picture\">" +
-                                    `<a href=\"detalle.html?id=${element.id}\"><img src=\"${element.urlImg}\" width=\"120px\"/></a>` +
+                                    `<img src=\"${element.urlImg}\" width=\"120px\"/>` +
                                 "</div>" +
                                     "<div class=\"journal__entry-body\">" +
                                         "<p class=\"journal__highlight\">"+
@@ -20,7 +21,8 @@ const verPromociones= ()=> {
                                         `Válido hasta el ${element.vigencia}` +
                                         "</p>" +
                                     "</div>"+
-                                "</div>";
+                                "</div>"+
+                                "</a>";
     });
 };
 
