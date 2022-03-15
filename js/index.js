@@ -14,7 +14,7 @@ const verPromociones= ()=> {
                                         "<p class=\"journal__highlight\">"+
                                             `${element.highLight}` +
                                         "</p>" +
-                                        `<p class=\"journal__entry-title\" ${element.id == 14 || element.id == 15 ? "style=\"font-size: 11px;\"" : ""}> `+
+                                        `<p class=\"journal__entry-title\" ${element.id == 11 || element.id == 12 ? "style=\"font-size: 11px;\"" : ""}> `+
                                             `${element.desc}`+
                                         "</p>" +
                                         "<p class=\"journal__entry-content\">" +
