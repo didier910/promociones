@@ -230,6 +230,6 @@ const promociones = [
         urlImg: 'img/nailkery.png',
         highLight: '15%',
         desc: 'sobre precio de lista',
-        vigencia: '31/03/2022'
+        vigencia: '03/31/2022'
     }
     ];
