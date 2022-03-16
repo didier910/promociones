@@ -6,25 +6,25 @@
     align-content: center;
 }
 
-.container-cupon{
-    display: flex;
-    justify-content: center;
-    padding: 10px;
-}
+.contenedor-cupon{
+    padding: 25px;
 
-.container-cupon img{
-    width: 500px;
-    height: auto;
-}
-
-.container-img-back{
-    display: flex;
-    justify-content: center;
 }
 
 .img-back{
     width: 100px;
     height: 100px;
-    margin-left: 200px;
-    margin-right: 200px;
+}
+
+@media screen and (max-width: 768px){
+    .contenedor-cupon img{
+        width: 90%;
+        height: auto;
+        margin-left: 18px;
+    }
+
+    .img-back{
+        width: 35px;
+        height: 35px;
+    }
 }
