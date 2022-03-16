@@ -22,8 +22,10 @@ const detalle = [
     Texto: "descuento con código",
     Vigencia: "12/31/2022",
     MensajeLargo: "25% de descuento en consumos mayores a $149.",
-    ComoAplicarlo: "Menciona el cupón Q07R0NPCC3 al ordenar y paga con tu tarjeta baz",
-    Restricciones: "- Aplica todos los días de la semana de 07:00 a 23:00 hrs durante la vigencia de la promoción.<br/>- No aplica en: Arrachera Vips (150 g), Arrachera Norteña (200 g), Carne Asada (120 g), Tampiqueña (140 g), Sirloin (250 g), Ribeye (250 g).<br/>- El código no es acumulable ni válido con otras promociones, cupones o descuentos y/o tarjeta de lealtad, ni en servicio a domicilio.<br/>- El código representa una oferta promocional y no es canjeable por dinero en efectivo.<br/>- El pago debe hacerse únicamente con las tarjetas participantes, previamente señaladas<br/>- El descuento aplica en restaurantes Vips de la República Mexicana, excepto en los Vips Torres Bancomer, Cola de Ballena, Cabo San Lucas, Aeropuerto la Paz, Central del Norte, Reynosa, Hidalgo Tampico, Xalapa Centro, Vips Crystal, Américas Veracruz, Acuario Veracruz, Veracruz Norte, Tuxtla Gtz. Poniente, Tuxtla Oriente, Las Adelitas, Tapachula y AICM Sala Bravo.",
+    ComoAplicarlo:
+      "Menciona el cupón Q07R0NPCC3 al ordenar y paga con tu tarjeta baz",
+    Restricciones:
+      "- Aplica todos los días de la semana de 07:00 a 23:00 hrs durante la vigencia de la promoción.<br/>- No aplica en: Arrachera Vips (150 g), Arrachera Norteña (200 g), Carne Asada (120 g), Tampiqueña (140 g), Sirloin (250 g), Ribeye (250 g).<br/>- El código no es acumulable ni válido con otras promociones, cupones o descuentos y/o tarjeta de lealtad, ni en servicio a domicilio.<br/>- El código representa una oferta promocional y no es canjeable por dinero en efectivo.<br/>- El pago debe hacerse únicamente con las tarjetas participantes, previamente señaladas<br/>- El descuento aplica en restaurantes Vips de la República Mexicana, excepto en los Vips Torres Bancomer, Cola de Ballena, Cabo San Lucas, Aeropuerto la Paz, Central del Norte, Reynosa, Hidalgo Tampico, Xalapa Centro, Vips Crystal, Américas Veracruz, Acuario Veracruz, Veracruz Norte, Tuxtla Gtz. Poniente, Tuxtla Oriente, Las Adelitas, Tapachula y AICM Sala Bravo.",
     TyCt: "Consulta términos, condiciones y responsable de la promoción ",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -40,8 +42,7 @@ const detalle = [
     ComoAplicarlo: "Descarga y muestra el ",
     Enlace: "cupón",
     ComoAplicarlo2: " de la promoción, y paga con tu tarjeta baz",
-    Cupon:
-      "https://www.bancoazteca.com.mx/content/dam/azteca/promociones-y-descuentos/servicios-y-otros/kfc-10-piezas/cupon-kfc-10-piezas.png",
+    Cupon: "./cupon1.html",
     Restricciones:
       "- La promoción aplica en compras directas en restaurantes KFC® y en servicio a domicilio llamando al 55 1515 4747 dentro del interior de la república.<br/>- Consulta por teléfono el monto mínimo de compra para evitar gastos de envío a domicilio o consulta el costo por servicio a domicilio al realizar tu pedido en caso de que el monto de tu compra sea menor al monto mínimo de compra.<br/>- No aplica con otras promociones o descuentos.<br/>- Cupón no acumulable ni canjeable por dinero en efectivo.<br/>- La promoción no aplica en los Estados y Municipios de Puebla, Tlaxcala, Córdoba, Orizaba y Veracruz.<br/>- La promoción únicamente aplicará para el paquete referido en la Mecánica.",
     TyCt: "Consulta términos, condiciones y responsable de la promoción ",
@@ -60,8 +61,7 @@ const detalle = [
     ComoAplicarlo: "Descarga y muestra el ",
     Enlace: "cupón",
     ComoAplicarlo2: " de la promoción, y paga con tu tarjeta baz",
-    Cupon:
-      "https://www.bancoazteca.com.mx/content/dam/azteca/promociones-y-descuentos/servicios-y-otros/kfc-14-piezas/cupon-kfc-14-piezas.png",
+    Cupon: "./cupon2.html",
     Restricciones:
       "- La promoción es aplicable únicamente durante el periodo de vigencia de la promoción.<br/>- La promoción aplica en compras directas en restaurantes KFC® y en servicio a domicilio llamando al 55 1515 4747 dentro del interior de la república.<br/>- Consulta por teléfono el monto mínimo de compra para evitar gastos de envío a domicilio o consulta el costo por servicio a domicilio al realizar tu pedido en caso de que el monto de tu compra sea menor al monto mínimo de compra.<br/>- No aplica con otras promociones o descuentos.<br/>- Cupón no acumulable ni canjeable por dinero en efectivo.<br/>- Sujeto a disponibilidad de productos e ingredientes en tienda.<br/>- La promoción no aplica en los Estados y Municipios de Puebla, Tlaxcala, Córdoba, Orizaba y Veracruz.<br/>- La promoción únicamente aplicará para el paquete referido en la Mecánica.",
     TyCt: "Consulta términos, condiciones y responsable de la promoción ",
@@ -79,8 +79,7 @@ const detalle = [
     ComoAplicarlo: "Descarga y muestra el ",
     Enlace: "cupón",
     ComoAplicarlo2: " de la promoción, y paga con tu tarjeta baz",
-    Cupon:
-      "https://www.bancoazteca.com.mx/content/dam/azteca/promociones-y-descuentos/servicios-y-otros/kfc-3-piezas/cupon-kfc-3-ketiras.jpeg",
+    Cupon: "./cupon3.html",
     Restricciones:
       "- La promoción es aplicable únicamente durante el periodo de vigencia de la promoción.<br/>- La promoción aplica en compras directas en restaurantes KFC® dentro del interior de la republica excepto los estado de  Puebla y Tlaxcala.<br/>- No aplica con otras promociones o descuentos.<br/>- Cupón no acumulable ni canjeable por dinero en efectivo.<br/>- Sujeto a disponibilidad de productos e ingredientes en tienda.<br/>- La promoción no aplica en Puebla y Tlaxcala.<br/>- La promoción únicamente aplicará para el paquete referido en la Mecánica.",
     TyCt: "Consulta términos, condiciones y responsable de la promoción ",
@@ -208,7 +207,8 @@ const detalle = [
     Vigencia: "6/30/2022",
     MensajeLargo: "15% de descuento en la compra de anteojos completo",
     ComoAplicarlo: "Menciona la promoción en caja y paga con tu tarjeta baz",
-    Restricciones: "- La promoción es aplicable únicamente durante el periodo de vigencia.<br/>- No aplica con otras promociones o descuentos.<br/>- No aplica en meses sin intereses.<br/>- Aplican restricciones.<br/>- Válido en la compra de anteojos completos",
+    Restricciones:
+      "- La promoción es aplicable únicamente durante el periodo de vigencia.<br/>- No aplica con otras promociones o descuentos.<br/>- No aplica en meses sin intereses.<br/>- Aplican restricciones.<br/>- Válido en la compra de anteojos completos",
     TyCt: "Consulta términos, condiciones y responsable de la promoción ",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -222,8 +222,10 @@ const detalle = [
     Vigencia: "5/31/2022",
     MensajeLargo:
       "25% de descuento los lunes medicamentos genéricos, suplementos y vitaminas",
-    ComoAplicarlo: "Menciona el código 00000150 en caja y paga con tu tarjeta baz",
-    Restricciones: "- La promoción es aplicable únicamente durante el periodo de vigencia y en los días establecidos en el apartado de beneficios.<br/>- No acumulable con otras promociones o descuentos.<br/>- No aplica en mercancía de rebaja.<br/>- El descuento del 25% solo aplica los días lunes durante la vigencia de la promoción.",
+    ComoAplicarlo:
+      "Menciona el código 00000150 en caja y paga con tu tarjeta baz",
+    Restricciones:
+      "- La promoción es aplicable únicamente durante el periodo de vigencia y en los días establecidos en el apartado de beneficios.<br/>- No acumulable con otras promociones o descuentos.<br/>- No aplica en mercancía de rebaja.<br/>- El descuento del 25% solo aplica los días lunes durante la vigencia de la promoción.",
     TyCt: "Consulta términos, condiciones y responsable de la promoción ",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -237,8 +239,10 @@ const detalle = [
     Vigencia: "5/31/2022",
     MensajeLargo:
       "10% de descuento en medicamentos genéricos, suplementos y vitaminas (martes a domingo).",
-    ComoAplicarlo: "Menciona el código 00000150 en caja y paga con tu tarjeta baz",
-    Restricciones: "- La promoción es aplicable únicamente durante el periodo de vigencia y en los días establecidos en el apartado de beneficios.<br/>- No acumulable con otras promociones o descuentos.<br/>- No aplica en mercancía de rebaja.<br/>- El descuento del 10% aplica solo de martes a domingo durante la vigencia de la promoción.",
+    ComoAplicarlo:
+      "Menciona el código 00000150 en caja y paga con tu tarjeta baz",
+    Restricciones:
+      "- La promoción es aplicable únicamente durante el periodo de vigencia y en los días establecidos en el apartado de beneficios.<br/>- No acumulable con otras promociones o descuentos.<br/>- No aplica en mercancía de rebaja.<br/>- El descuento del 10% aplica solo de martes a domingo durante la vigencia de la promoción.",
     TyCt: "Consulta términos, condiciones y responsable de la promoción ",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -282,7 +286,8 @@ const detalle = [
     Texto: "de descuento en línea",
     Vigencia: "6/30/2022",
     MensajeLargo: "15% de descuento en mercancía de línea",
-    ComoAplicarlo: "Ingresa el código BANCOAZTECA-15% y paga con tu tarjeta baz",
+    ComoAplicarlo:
+      "Ingresa el código BANCOAZTECA-15% y paga con tu tarjeta baz",
     Restricciones:
       "- Aplica solo en compras con un monto mínimo de $899.00 (Ochocientos noventa y nueve pesos, 00/100 M.N.).<br/>- La promoción es aplicable únicamente durante el periodo de vigencia.<br/>- No acumulable con otras promociones o descuentos.<br/>- No aplica en mercancía de rebaja.",
     TyCt: "Consulta términos, condiciones y responsable de la promoción ",
@@ -316,7 +321,8 @@ const detalle = [
       "10% de descuento en el total de la compra en zapatos para toda la familia",
     ComoAplicarlo:
       "Menciona el código RUDOS2021 al pagar en caja con tu tarjeta baz",
-    Restricciones: "- Aplica en zapatos para toda la familia (hombres, mujeres y niños).<br/>- No aplica para compras en línea.<br/>- No aplica en productos en oferta ni con otras promociones.<br/>- Aplica en Ciudad de México",
+    Restricciones:
+      "- Aplica en zapatos para toda la familia (hombres, mujeres y niños).<br/>- No aplica para compras en línea.<br/>- No aplica en productos en oferta ni con otras promociones.<br/>- Aplica en Ciudad de México",
     TyCt: "Consulta términos, condiciones y responsable de la promoción ",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -329,8 +335,10 @@ const detalle = [
     Texto: "descuento en tienda",
     Vigencia: "6/30/2022",
     MensajeLargo: "10% de descuento en tienda física y en línea",
-    ComoAplicarlo: "Paga con tu tarjeta baz en caja o en línea. (En línea ingresa el código PROMO-AZTECA)",
-    Restricciones: "- Solo aplica en la compra artículos de la “zona outlet”.<br/>- Se descontará el precio del producto de menor valor, en caso de tener 2 o 3 piezas con el precio mínimo, se descontará únicamente 1 pieza con el valor mínimo.<br/>- Las existencias están sujetas a la existencia en cada tienda y en tienda en línea.<br/>- El descuento no es reembolsable en caso de devoluciones o cancelaciones.",
+    ComoAplicarlo:
+      "Paga con tu tarjeta baz en caja o en línea. (En línea ingresa el código PROMO-AZTECA)",
+    Restricciones:
+      "- Solo aplica en la compra artículos de la “zona outlet”.<br/>- Se descontará el precio del producto de menor valor, en caso de tener 2 o 3 piezas con el precio mínimo, se descontará únicamente 1 pieza con el valor mínimo.<br/>- Las existencias están sujetas a la existencia en cada tienda y en tienda en línea.<br/>- El descuento no es reembolsable en caso de devoluciones o cancelaciones.",
     TyCt: "Consulta términos, condiciones y responsable de la promoción ",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -344,7 +352,8 @@ const detalle = [
     Vigencia: "12/31/2022",
     MensajeLargo:
       "Recibe $300 pesos al hacer una recarga de $150 pesos en tu Recorcard",
-    ComoAplicarlo: "Menciona la promoción y paga con tu tarjeta baz en taquilla",
+    ComoAplicarlo:
+      "Menciona la promoción y paga con tu tarjeta baz en taquilla",
     Restricciones:
       "- No aplica con otras promociones, sujeto a cambio sin previo aviso.<br/>- La bonificación se hace en saldo en bonus cargado en la Recorcard.<br/>- La bonificación no puede ser canjeable por dinero en efectivo.<br/>- La promoción es válida todos los días durante la vigencia de la promoción.<br/>- No aplica descuento en la compra de Recorcard<br/>- No aplica en ventas online.<br/>- La promoción aplica únicamente en Ciudad de México, Guanajuato, Jalisco, Querétaro, Estado de México, Chiapas, Yucatán, Coahuila, Morelos, Sonora, Nayarit, Aguascalientes, Tamaulipas y Tabasco.",
     TyCt: "Consulta términos, condiciones y responsable de la promoción ",
@@ -359,7 +368,8 @@ const detalle = [
     Texto: "descuento en Kaporte",
     Vigencia: "12/31/2022",
     MensajeLargo: "Kataporte de $190 a $150 pesos",
-    ComoAplicarlo: "Menciona la promoción y paga con tu tarjeta baz en taquilla",
+    ComoAplicarlo:
+      "Menciona la promoción y paga con tu tarjeta baz en taquilla",
     Restricciones:
       "- No aplica con otras promociones, sujeto a cambio sin previo aviso.<br/>" +
       "- La vigencia del Kataporte será válido únicamente para la fecha que seleccionas al adquirirlo.<br/>" +
@@ -396,7 +406,8 @@ const detalle = [
     Texto: "descuento en viajes",
     Vigencia: "4/30/2022",
     MensajeLargo: "50% de descuento en los primeros 4 viajes o envíos",
-    ComoAplicarlo: "Utiliza el código BANCOAZTECA21 en tu app de Cabify y paga con tu tarjeta baz",
+    ComoAplicarlo:
+      "Utiliza el código BANCOAZTECA21 en tu app de Cabify y paga con tu tarjeta baz",
     Restricciones:
       "- Promoción válida solo para primeros usuarios durante los primeros 30 días de ingreso como nuevo usuario durante la vigencia de la promoción.<br/>- No válido con otras promociones o descuentos.<br/>- Descuento máximo $50.00 MXN (cincuenta pesos, 00/100 M.N.).",
     TyCt: "Consulta términos, condiciones y responsable de la promoción ",
@@ -428,7 +439,8 @@ const detalle = [
     Vigencia: "10/31/2022",
     MensajeLargo: "10% de descuento en cuenta total. (Paquetes y Hoteles)",
     ComoAplicarlo: "Menciona promoción Vive Plus y paga con tu tarjeta baz",
-    Restricciones: "- Reserva al 5554214199, Whatsapp 555270472 o al correo ventas@viajeslibertad.com.mx<br/>- No aplica con otras promociones",
+    Restricciones:
+      "- Reserva al 5554214199, Whatsapp 555270472 o al correo ventas@viajeslibertad.com.mx<br/>- No aplica con otras promociones",
     TyCt: "Consulta términos, condiciones y responsable de la promoción ",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -443,7 +455,8 @@ const detalle = [
     MensajeLargo:
       "Hasta 55 % de descuento en vuelos nacionales e internacionales para volar en agosto 2022.",
     ComoAplicarlo: "Ingresa el código promocional VUELA55 en www.volaris.com",
-    Restricciones: "- Promoción válida para viajes nacionales e internacionales de hasta con 55% de descuento. Aplicable únicamente a la tarifa aérea.<br/>- El porcentaje de descuento aplicado a la compra será variable y se asignará de conformidad con los criterios que en su caso el responsable de la promoción establezca, no siendo el mismo superior al 55% señalado.<br/>- El descuento No aplica en Tarifa de Uso Aeroportuario (TUA), impuestos y otros cargos ni en tarifas promocionales.<br/>- Porcentaje de descuento sujeto a disponibilidad.<br/>- No aplica en grupos mayores a 10 personas.<br/>- Promoción válida solo comprando a través de la página de www.volaris.com <br/>- Consulte los cargos por equipaje y otros servicios y cargos opcionales.<br/>- Para vuelos internacionales, si el Cliente adquirió la reservación básica, sólo se incluyen 2 equipajes de mano pequeños que en su conjunto no superen los 10 kg y no incluye equipaje documentado, éste se podrá adquirir con un costo adicional, solo adquiriendo la reservación clásica y/o plus, puede transportar una maleta documentada de hasta 25 kg.<br/>- Para vuelos nacionales, si el Cliente adquirió la reservación básica, sólo incluye 2 equipajes de mano pequeños que en su conjunto no superen los 10 kg y no incluye equipaje documentado, éste se podrá adquirir con un costo adicional, adquiriendo la reservación clásica o plus se incluye 2 equipajes de mano pequeños que en su conjunto no superen los 10 kg así como una pieza de equipaje documentado de hasta 25 kg.<br/>- No es acumulable con otras promociones.",
+    Restricciones:
+      "- Promoción válida para viajes nacionales e internacionales de hasta con 55% de descuento. Aplicable únicamente a la tarifa aérea.<br/>- El porcentaje de descuento aplicado a la compra será variable y se asignará de conformidad con los criterios que en su caso el responsable de la promoción establezca, no siendo el mismo superior al 55% señalado.<br/>- El descuento No aplica en Tarifa de Uso Aeroportuario (TUA), impuestos y otros cargos ni en tarifas promocionales.<br/>- Porcentaje de descuento sujeto a disponibilidad.<br/>- No aplica en grupos mayores a 10 personas.<br/>- Promoción válida solo comprando a través de la página de www.volaris.com <br/>- Consulte los cargos por equipaje y otros servicios y cargos opcionales.<br/>- Para vuelos internacionales, si el Cliente adquirió la reservación básica, sólo se incluyen 2 equipajes de mano pequeños que en su conjunto no superen los 10 kg y no incluye equipaje documentado, éste se podrá adquirir con un costo adicional, solo adquiriendo la reservación clásica y/o plus, puede transportar una maleta documentada de hasta 25 kg.<br/>- Para vuelos nacionales, si el Cliente adquirió la reservación básica, sólo incluye 2 equipajes de mano pequeños que en su conjunto no superen los 10 kg y no incluye equipaje documentado, éste se podrá adquirir con un costo adicional, adquiriendo la reservación clásica o plus se incluye 2 equipajes de mano pequeños que en su conjunto no superen los 10 kg así como una pieza de equipaje documentado de hasta 25 kg.<br/>- No es acumulable con otras promociones.",
     TyCt: "Consulta términos, condiciones y responsable de la promoción ",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -455,10 +468,11 @@ const detalle = [
     Highlight: "15%",
     Texto: "sobre precio de lista",
     Vigencia: "31/03/2022",
-    MensajeLargo:
-      "15% sobre precio de lista en servicio de uñas",
-    ComoAplicarlo: "Agenda tu cita llamando al 55 1163 8617, menciona la promoción, y paga con tu tarjeta baz",
-    Restricciones: "- La promoción aplica sobre precio de lista.<br/>- No aplica con otras promociones.<br/>- Válido en sucursales Nailkery, previa cita al 5511638617 para cualquier sucursal y mencionar la promoción.<br/>- Aplica mostrando en recepción la imagen de la promoción<br/>- Descuento no canjeable por dinero en efectivo.",
+    MensajeLargo: "15% sobre precio de lista en servicio de uñas",
+    ComoAplicarlo:
+      "Agenda tu cita llamando al 55 1163 8617, menciona la promoción, y paga con tu tarjeta baz",
+    Restricciones:
+      "- La promoción aplica sobre precio de lista.<br/>- No aplica con otras promociones.<br/>- Válido en sucursales Nailkery, previa cita al 5511638617 para cualquier sucursal y mencionar la promoción.<br/>- Aplica mostrando en recepción la imagen de la promoción<br/>- Descuento no canjeable por dinero en efectivo.",
     TyCt: "Consulta términos, condiciones y responsable de la promoción ",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -477,7 +491,7 @@ const verDetalle = (element) => {
             <p>${element.MensajeLargo}</p>
         </div>`;
 
-  if (element.Empresa === "KFC" ) {
+  if (element.Empresa === "KFC") {
     container.innerHTML += `
       <div class="container-aviso">
         <p>${element.ComoAplicarlo}
@@ -500,7 +514,7 @@ const verDetalle = (element) => {
 
         <div class="container-terminos">
           <p>${element.TyCt}
-            <a href="${element.TyCs}" target="_blank"> 
+            <a href="${element.TyCs}"> 
             ${element.TyCl}
             </a>
           </p>

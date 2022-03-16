@@ -1,0 +1,30 @@
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.container-cupon{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.container-cupon img{
+    width: 500px;
+    height: auto;
+}
+
+.container-img-back{
+    display: flex;
+    justify-content: center;
+}
+
+.img-back{
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
