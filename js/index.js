@@ -1,10 +1,11 @@
 
 
 const verPromociones= ()=> {
-    
     let container = document.querySelector(".content");
-
+    
     promociones.forEach( element => {        
+        let date = new Date(element.vigencia);
+        let fecha = date.getDate() + "/" + date.getMonth() + "/" + date.getFullYear();
         container.innerHTML += `<a href=\"detalle.html?id=${element.id}\">`+
                                 "<div class=\"journal__entry\">" + 
                                 "<div class=\"journal__entry-picture\">" +
@@ -18,7 +19,7 @@ const verPromociones= ()=> {
                                             `${element.desc}`+
                                         "</p>" +
                                         "<p class=\"journal__entry-content\">" +
-                                        `Válido hasta el ${element.vigencia}` +
+                                        `Válido hasta el ${fecha}` +
                                         "</p>" +
                                     "</div>"+
                                 "</div>"+

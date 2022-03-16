@@ -480,6 +480,8 @@ const detalle = [
 ];
 
 const verDetalle = (element) => {
+  let date = new Date(element.Vigencia)
+  let fecha = date.getDate() + "/" + date.getMonth() + "/" + date.getFullYear();
   let container = document.querySelector(".container");
   container.innerHTML += `
         <div class="container-img">
@@ -525,7 +527,7 @@ const verDetalle = (element) => {
               <img src="./img/arrow-back.svg" alt="flecha">
             </a>
             <div class="container-vigencia">
-                <p>Hasta el ${element.Vigencia}</p>
+                <p>Hasta el ${fecha}</p>
             </div>
         </div>
     `;
