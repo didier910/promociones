@@ -467,7 +467,7 @@ const detalle = [
     Imagen: "'img/nailkery.png'",
     Highlight: "15%",
     Texto: "sobre precio de lista",
-    Vigencia: "31/03/2022",
+    Vigencia: "03/31/2022",
     MensajeLargo: "15% sobre precio de lista en servicio de uñas",
     ComoAplicarlo:
       "Agenda tu cita llamando al 55 1163 8617, menciona la promoción, y paga con tu tarjeta baz",
