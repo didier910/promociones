@@ -12,20 +12,42 @@ body {
 .container {
     display: flex;
     flex-direction: column;
-    /* flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     justify-content: center;
     align-items: center;
-    align-content: center; */
+    align-content: center;
     left: 50%;
     top: 45%;
     /* transform: translate(-50%, -50%); */
-    width: 100%;
+    width: 380px;
     height: auto;
-    padding-left: 5%;
-    padding-right: 7%;
+    /* padding: 0px 25px 0px 25px; */
     background: #ffffff;
     overflow: hidden;
     border-radius: 10px;
+    /* border: 1px solid #000; */
+}
+
+.title {
+    display: flex;
+    flex-direction: row;
+    align-content: flex-start;
+    width: 100%;
+    margin-top: 25px;
+}
+
+.title img {
+    margin-left: 20px;
+    padding: 0;
+}
+
+
+.title span {
+    font-size: 16px;
+    text-align: center;
+    font-weight: 500;
+    margin-left: 100px;
+    margin-bottom: 10px;
 }
 
 .container-img {
@@ -74,7 +96,7 @@ body {
     border: 2px dashed #a8a8a8;
 }
 
-.container-aviso a{
+.container-aviso a {
     text-decoration: none;
     cursor: pointer;
     font-size: 14px;
@@ -129,7 +151,7 @@ hr {
     height: auto;
 }
 
-.container-terminos p{
+.container-terminos p {
     font-size: 12px;
     font-weight: bold;
     color: #a8a8a8;
@@ -137,7 +159,7 @@ hr {
     width: 100%;
 }
 
-.container-terminos a{
+.container-terminos a {
     color: blue;
     text-decoration: none;
     cursor: pointer;
@@ -154,14 +176,14 @@ hr {
     gap: 15px;
 }
 
-.container-vence img{
-    color:#e04018;
+.container-vence img {
+    color: #e04018;
     width: 45px;
     height: 45px;
     cursor: pointer;
 }
 
-.container-vigencia{
+.container-vigencia {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -180,4 +202,35 @@ hr {
 
 .container-vigencia p span {
     color: #fa5007;
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 380px;
+    }
+}
+
+
+@media screen and (max-width: 480px) {
+    .container {
+        width: 380px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .container-aviso {
+        width: 350px;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .container {
+        width: 350px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .container-aviso {
+        width: 320px;
+    }
 }

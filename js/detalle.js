@@ -523,9 +523,6 @@ const verDetalle = (element) => {
         </div>
 
         <div class="container-vence">
-            <a href="index.html">
-              <img src="./img/arrow-back.svg" alt="flecha">
-            </a>
             <div class="container-vigencia">
                 <p>Hasta el ${fecha}</p>
             </div>
