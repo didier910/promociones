@@ -480,9 +480,10 @@ const detalle = [
 ];
 
 const verDetalle = (element) => {
-  let date = new Date(element.Vigencia)
+  let date = new Date(element.Vigencia);
   let fecha = date.getDate() + "/" + date.getMonth() + "/" + date.getFullYear();
   let container = document.querySelector(".container");
+
   container.innerHTML += `
         <div class="container-img">
             <img src=${element.Imagen} alt="">
