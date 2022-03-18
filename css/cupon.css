@@ -15,6 +15,13 @@ body {
     align-content: center;
 }
 
+.container-img-back{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-top: 100px;
+}
+
 .contenedor{
     display: flex;
     flex-direction: column;
@@ -22,6 +29,7 @@ body {
     align-items: center;
     align-content: center;
 }
+
 
 .contenedor-cupon{
     padding: 25px;
@@ -34,6 +42,10 @@ body {
 }
 
 @media screen and (max-width: 768px){
+    .container-img-back{
+        margin-left: 40px;
+    }
+
     .contenedor-cupon img{
         width: 90%;
         height: auto;
