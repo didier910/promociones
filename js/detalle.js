@@ -169,7 +169,7 @@ const detalle = [
   {
     Empresa: "Harmon Hall",
     Id: 11,
-    Imagen: "img/harmonhall.png",
+    Imagen: "img/harmanhall.png",
     Highlight: "$500",
     Texto: "máximo de descuento",
     Vigencia: "06/30/2022",

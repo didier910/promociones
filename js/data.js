@@ -82,7 +82,7 @@ const promociones = [
   {
     id: 11,
     empresa: "Harmon Hall",
-    urlImg: "img/harmonhall.png",
+    urlImg: "img/harmanhall.png",
     highLight: "$500",
     desc: "máximo de descuento",
     vigencia: "06/30/2022",
