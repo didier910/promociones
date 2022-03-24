@@ -42,7 +42,7 @@ const detalle = [
     ComoAplicarlo: "Descarga y muestra el",
     Enlace: "cupón",
     ComoAplicarlo2: " de la promoción, y paga con tu tarjeta baz",
-    Cupon: "/cupon1.html",
+    Cupon: "cupon1.html",
     Restricciones:
       "- La promoción aplica en compras directas en restaurantes KFC® y en servicio a domicilio llamando al 55 1515 4747 dentro del interior de la república.<br/>- Consulta por teléfono el monto mínimo de compra para evitar gastos de envío a domicilio o consulta el costo por servicio a domicilio al realizar tu pedido en caso de que el monto de tu compra sea menor al monto mínimo de compra.<br/>- No aplica con otras promociones o descuentos.<br/>- Cupón no acumulable ni canjeable por dinero en efectivo.<br/>- Sujeto a disponibilidad de productos e ingredientes en tienda.<br/>- La promoción no aplica en los Estados y Municipios de Puebla, Tlaxcala, Córdoba, Orizaba y Veracruz.<br/>- La promoción únicamente aplicará para el paquete referido en la Mecánica.",
     TyCt: "Consulta términos y condiciones",
@@ -61,7 +61,7 @@ const detalle = [
     ComoAplicarlo: "Descarga y muestra el",
     Enlace: "cupón",
     ComoAplicarlo2: " de la promoción, y paga con tu tarjeta baz",
-    Cupon: "/cupon2.html",
+    Cupon: "cupon2.html",
     Restricciones:
       "- La promoción es aplicable únicamente durante el periodo de vigencia de la promoción.<br/>- La promoción aplica en compras directas en restaurantes KFC® y en servicio a domicilio llamando al 55 1515 4747 dentro del interior de la república.<br/>- Consulta por teléfono el monto mínimo de compra para evitar gastos de envío a domicilio o consulta el costo por servicio a domicilio al realizar tu pedido en caso de que el monto de tu compra sea menor al monto mínimo de compra.<br/>- No aplica con otras promociones o descuentos.<br/>- Cupón no acumulable ni canjeable por dinero en efectivo.<br/>- Sujeto a disponibilidad de productos e ingredientes en tienda.<br/>- La promoción no aplica en los Estados y Municipios de Puebla, Tlaxcala, Córdoba, Orizaba y Veracruz.<br/>- La promoción únicamente aplicará para el paquete referido en la Mecánica.",
     TyCt: "Consulta términos y condiciones",
@@ -80,7 +80,7 @@ const detalle = [
     ComoAplicarlo: "Descarga y muestra el",
     Enlace: "cupón",
     ComoAplicarlo2: " de la promoción, y paga con tu tarjeta baz",
-    Cupon: "/cupon3.html",
+    Cupon: "cupon3.html",
     Restricciones:
       "- La promoción es aplicable únicamente durante el periodo de vigencia de la promoción.<br/>- La promoción aplica en compras directas en restaurantes KFC® dentro del interior de la republica excepto los estado de Puebla y Tlaxcala.<br/>- No aplica con otras promociones o descuentos.<br/>- Cupón no acumulable ni canjeable por dinero en efectivo.<br/>- Sujeto a disponibilidad de productos e ingredientes en tienda.<br/>- La promoción no aplica en Puebla y Tlaxcala.<br/>- La promoción únicamente aplicará para el paquete referido en la Mecánica.",
     TyCt: "Consulta términos y condiciones",
@@ -169,8 +169,8 @@ const detalle = [
   {
     Empresa: "Harmon Hall",
     Id: 11,
-    Imagen: "img/harmanhall.png",
     Highlight: "$500",
+    Imagen: "img/harmanhall.png",
     Texto: "máximo de descuento",
     Vigencia: "06/30/2022",
     MensajeLargo: "Hasta $500 pesos de descuento en colegiaturas",

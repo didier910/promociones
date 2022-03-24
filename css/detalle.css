@@ -56,23 +56,29 @@ body {
 .title {
     display: flex;
     flex-direction: row;
-    align-content: flex-start;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
     width: 100%;
     margin-top: 25px;
 }
-
+/* 
 .title img {
     margin-left: 20px;
     padding: 0;
-}
-
+} */
 
 .title span {
     font-size: 16px;
     text-align: center;
     font-weight: 500;
-    margin-left: 100px;
     margin-bottom: 10px;
+}
+
+.return{
+    color: #8200ff;
+    font-weight: bold;
+    text-decoration: none;
 }
 
 .container-img {

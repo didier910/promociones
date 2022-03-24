@@ -17,9 +17,9 @@ body {
 
 .container-img-back{
     display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
-    margin-top: 100px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 .contenedor{
@@ -36,9 +36,15 @@ body {
 
 }
 
-.img-back{
+/* .img-back{
     width: 100px;
     height: 100px;
+} */
+
+.return{
+    color: #8200ff;
+    font-weight: bold;
+    text-decoration: none;
 }
 
 @media screen and (max-width: 768px){
