@@ -12,7 +12,7 @@ const promociones = [
     empresa: "VIPS",
     urlImg: "img/vips.png",
     highLight: "25%",
-    desc: "descuento con Q07R0NPCC3",
+    desc: "con código Q07R0NPCC3",
     vigencia: "12/31/2022",
   },
   {
