@@ -5,7 +5,7 @@ const verPromociones= ()=> {
     
     promociones.forEach( element => {        
         let date = new Date(element.vigencia);
-        let fecha = date.getDate() + "/" + date.getMonth() + "/" + date.getFullYear();
+        let fecha = date.getDate() + "/" + (date.getMonth()+1) + "/" + date.getFullYear();
         container.innerHTML += `<a href=\"detalle.html?id=${element.id}\">`+
                                 "<div class=\"journal__entry\">" + 
                                 "<div class=\"journal__entry-picture\">" +
