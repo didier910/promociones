@@ -109,7 +109,7 @@ const promociones = [
     urlImg: "img/lagenerosa.png",
     highLight: "25%",
     desc: "descuento en lunes",
-    vigencia: "05/30/2022",
+    vigencia: "05/31/2022",
   },
   {
     id: 15,

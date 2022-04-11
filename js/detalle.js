@@ -92,7 +92,7 @@ const detalle = [
     Imagen: "img/kripy.png",
     Highlight: "10%",
     Texto: "descuento en el total",
-    Vigencia: "10/31/2022",
+    Vigencia: "06/30/2022",
     MensajeLargo: "10% de descuento en el total de la cuenta",
     ComoAplicarlo: "Menciona la promoción y paga con tu tarjeta baz en caja",
     Restricciones: "",
@@ -218,7 +218,7 @@ const detalle = [
     Imagen: "img/lagenerosa.png",
     Highlight: "25%",
     Texto: "decuento en lunes",
-    Vigencia: "05/30/2022",
+    Vigencia: "05/31/2022",
     MensajeLargo:
       "25% de descuento los lunes medicamentos genéricos, suplementos y vitaminas",
     ComoAplicarlo:
@@ -234,7 +234,7 @@ const detalle = [
     Imagen: "img/lagenerosa.png",
     Highlight: "10%",
     Texto: "descuento (mas - dom)",
-    Vigencia: "05/30/2022",
+    Vigencia: "05/31/2022",
     MensajeLargo:
       "10% de descuento en medicamentos genéricos, suplementos y vitaminas (martes a domingo)",
     ComoAplicarlo:
@@ -347,7 +347,7 @@ const detalle = [
     Imagen: "img/kataplum.png",
     Highlight: "$40",
     Texto: "descuento en Kataporte",
-    Vigencia: "12/21/2022",
+    Vigencia: "12/31/2022",
     MensajeLargo: "Kataporte de $190 a $150 pesos",
     ComoAplicarlo:
       "Menciona la promoción y paga con tu tarjeta baz en taquilla",
