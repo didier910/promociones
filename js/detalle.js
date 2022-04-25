@@ -9,7 +9,15 @@ const detalle = [
     MensajeLargo: "5% de descuento + ofertas vigentes + envío a domicilio ",
     ComoAplicarlo: "Paga con tu tarjeta baz en elektra.com.mx",
     Restricciones:
-      "- No acumulable con otras promociones.<br/>- La promoción es válida en mercancías generales.<br/>- La promoción no aplica en el modelo 3022635 Consola PS5.<br/>- Promoción válida en artículos vendidos y enviados por www.elektra.com.mx<br/>- La promoción no aplica en caso de haber cancelaciones y devoluciones.<br/>- No aplica en Viajes.<br/>- Monto mínimo de compra $2,500 MXN (Dos mil quinientos pesos 00/100 M.N.) en mercancías generales.<br/>- La promoción aplica en todo el sitio.<br/>- Aplica en artículos vendidos y enviados por Elektra.com.mx",
+      "- No acumulable con otras promociones.<br/>" +
+      "- La promoción es válida en mercancías generales.<br/>" +
+      "- La promoción no aplica en el modelo 3022635 Consola PS5.<br/>" +
+      "- Promoción válida en artículos vendidos y enviados por www.elektra.com.mx<br/>" +
+      "- La promoción no aplica en caso de haber cancelaciones y devoluciones.<br/>" +
+      "- No aplica en Viajes.<br/>" +
+      "- Monto mínimo de compra $2,500 MXN (Dos mil quinientos pesos 00/100 M.N.) en mercancías generales.<br/>" +
+      "- La promoción aplica en todo el sitio.<br/>" +
+      "- Aplica en artículos vendidos y enviados por Elektra.com.mx",
     TyCt: "Consulta términos y condiciones ",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -25,7 +33,12 @@ const detalle = [
     ComoAplicarlo:
       "Menciona el cupón Q07R0NPCC3 al ordenar y paga con tu tarjeta baz",
     Restricciones:
-      "- Aplica todos los días de la semana de 07:00 a 23:00 hrs durante la vigencia de lanpromoción.<br/>- No aplica en: Arrachera Vips (150 g), Arrachera Norteña (200 g), Carne Asada (120 g), Tampiqueña (140 g), Sirloin (250 g), Ribeye (250 g).<br/>- El código no es acumulable ni válido con otras promociones, cupones o descuentos y/ontarjeta de lealtad, ni en servicio a domicilio.<br/>- El código representa una oferta promocional y no es canjeable por dinero en efectivo.<br/>- El pago debe hacerse únicamente con las tarjetas participantes, previamente señaladas<br/>- El descuento aplica en restaurantes Vips de la República Mexicana, excepto en los VipsnTorres Bancomer, Cola de Ballena, Cabo San Lucas, Aeropuerto la Paz, Central del Norte, Reynosa, Hidalgo Tampico, Xalapa Centro, Vips Crystal, Américas Veracruz, Acuario Veracruz, Veracruz Norte, Tuxtla Gtz. Poniente, Tuxtla Oriente, Las Adelitas, Tapachula ynAICM Sala Bravo.",
+      "- Aplica todos los días de la semana de 07:00 a 23:00 hrs durante la vigencia de la promoción.<br/>" +
+      "- No aplica en: Arrachera Vips (150 g), Arrachera Norteña (200 g), Carne Asada (120 g), Tampiqueña (140 g), Sirloin (250 g), Ribeye (250 g).<br/>" +
+      "- El código no es acumulable ni válido con otras promociones, cupones o descuentos y/o tarjeta de lealtad, ni en servicio a domicilio.<br/>" +
+      "- El código representa una oferta promocional y no es canjeable por dinero en efectivo.<br/>" +
+      "- El pago debe hacerse únicamente con las tarjetas participantes, previamente señaladas<br/>" +
+      "- El descuento aplica en restaurantes Vips de la República Mexicana, excepto en los Vips Torres Bancomer, Cola de Ballena, Cabo San Lucas, Aeropuerto la Paz, Central del Norte, Reynosa, Hidalgo Tampico, Xalapa Centro, Vips Crystal, Américas Veracruz, Acuario Veracruz, Veracruz Norte, Tuxtla Gtz. Poniente, Tuxtla Oriente, Las Adelitas, Tapachula y AICM Sala Bravo.",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -44,7 +57,13 @@ const detalle = [
     ComoAplicarlo2: " de la promoción, y paga con tu tarjeta baz",
     Cupon: "cupon1.html",
     Restricciones:
-      "- La promoción aplica en compras directas en restaurantes KFC® y en servicio a domicilio llamando al 55 1515 4747 dentro del interior de la república.<br/>- Consulta por teléfono el monto mínimo de compra para evitar gastos de envío a domicilio o consulta el costo por servicio a domicilio al realizar tu pedido en caso de que el monto de tu compra sea menor al monto mínimo de compra.<br/>- No aplica con otras promociones o descuentos.<br/>- Cupón no acumulable ni canjeable por dinero en efectivo.<br/>- Sujeto a disponibilidad de productos e ingredientes en tienda.<br/>- La promoción no aplica en los Estados y Municipios de Puebla, Tlaxcala, Córdoba, Orizaba y Veracruz.<br/>- La promoción únicamente aplicará para el paquete referido en la Mecánica.",
+      "- La promoción aplica en compras directas en restaurantes KFC® y en servicio a domicilio llamando al 55 1515 4747 dentro del interior de la república.<br/>" +
+      "- Consulta por teléfono el monto mínimo de compra para evitar gastos de envío a domicilio o consulta el costo por servicio a domicilio al realizar tu pedido en caso de que el monto de tu compra sea menor al monto mínimo de compra.<br/>" +
+      "- No aplica con otras promociones o descuentos.<br/>" +
+      "- Cupón no acumulable ni canjeable por dinero en efectivo.<br/>" +
+      "- Sujeto a disponibilidad de productos e ingredientes en tienda.<br/>" +
+      "- La promoción no aplica en los Estados y Municipios de Puebla, Tlaxcala, Córdoba, Orizaba y Veracruz.<br/>" +
+      "- La promoción únicamente aplicará para el paquete referido en la Mecánica.",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -63,7 +82,14 @@ const detalle = [
     ComoAplicarlo2: " de la promoción, y paga con tu tarjeta baz",
     Cupon: "cupon2.html",
     Restricciones:
-      "- La promoción es aplicable únicamente durante el periodo de vigencia de la promoción.<br/>- La promoción aplica en compras directas en restaurantes KFC® y en servicio a domicilio llamando al 55 1515 4747 dentro del interior de la república.<br/>- Consulta por teléfono el monto mínimo de compra para evitar gastos de envío a domicilio o consulta el costo por servicio a domicilio al realizar tu pedido en caso de que el monto de tu compra sea menor al monto mínimo de compra.<br/>- No aplica con otras promociones o descuentos.<br/>- Cupón no acumulable ni canjeable por dinero en efectivo.<br/>- Sujeto a disponibilidad de productos e ingredientes en tienda.<br/>- La promoción no aplica en los Estados y Municipios de Puebla, Tlaxcala, Córdoba, Orizaba y Veracruz.<br/>- La promoción únicamente aplicará para el paquete referido en la Mecánica.",
+      "- La promoción es aplicable únicamente durante el periodo de vigencia de la promoción.<br/>" +
+      "- La promoción aplica en compras directas en restaurantes KFC® y en servicio a domicilio llamando al 55 1515 4747 dentro del interior de la república.<br/>" +
+      "- Consulta por teléfono el monto mínimo de compra para evitar gastos de envío a domicilio o consulta el costo por servicio a domicilio al realizar tu pedido en caso de que el monto de tu compra sea menor al monto mínimo de compra.<br/>" +
+      "- No aplica con otras promociones o descuentos.<br/>" +
+      "- Cupón no acumulable ni canjeable por dinero en efectivo.<br/>" +
+      "- Sujeto a disponibilidad de productos e ingredientes en tienda.<br/>" +
+      "- La promoción no aplica en los Estados y Municipios de Puebla, Tlaxcala, Córdoba, Orizaba y Veracruz.<br/>" +
+      "- La promoción únicamente aplicará para el paquete referido en la Mecánica.",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -81,7 +107,13 @@ const detalle = [
     ComoAplicarlo2: " de la promoción, y paga con tu tarjeta baz",
     Cupon: "cupon3.html",
     Restricciones:
-      "- La promoción es aplicable únicamente durante el periodo de vigencia de la promoción.<br/>- La promoción aplica en compras directas en restaurantes KFC® dentro del interior de la republica excepto los estado de Puebla y Tlaxcala.<br/>- No aplica con otras promociones o descuentos.<br/>- Cupón no acumulable ni canjeable por dinero en efectivo.<br/>- Sujeto a disponibilidad de productos e ingredientes en tienda.<br/>- La promoción no aplica en Puebla y Tlaxcala.<br/>- La promoción únicamente aplicará para el paquete referido en la Mecánica.",
+      "- La promoción es aplicable únicamente durante el periodo de vigencia de la promoción.<br/>" +
+      "- La promoción aplica en compras directas en restaurantes KFC® dentro del interior de la republica excepto los estado de Puebla y Tlaxcala.<br/>" +
+      "- No aplica con otras promociones o descuentos.<br/>" +
+      "- Cupón no acumulable ni canjeable por dinero en efectivo.<br/>" +
+      "- Sujeto a disponibilidad de productos e ingredientes en tienda.<br/>" +
+      "- La promoción no aplica en Puebla y Tlaxcala.<br/>" +
+      "- La promoción únicamente aplicará para el paquete referido en la Mecánica.",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -89,13 +121,19 @@ const detalle = [
   {
     Empresa: "Krispy Kreme",
     Id: 6,
-    Imagen: "img/kripy.png",
+    Imagen: "img/krispy.png",
     Highlight: "10%",
     Texto: "descuento en el total",
     Vigencia: "06/30/2022",
     MensajeLargo: "10% de descuento en el total de la cuenta",
     ComoAplicarlo: "Menciona la promoción y paga con tu tarjeta baz en caja",
-    Restricciones: "",
+    Restricciones:
+      "- No aplica con otras promociones o descuentos." +
+      "- No aplica en la compra de artículos coleccionables ni bebidas embotelladas." +
+      "- El beneficio no podrá ser cambiado por dinero en efectivo." +
+      "- No aplica en cancelaciones o devoluciones." +
+      "- La promoción es aplicable únicamente durante el periodo de vigencia de la promoción." +
+      "- La promoción aplica en compras directas en todas las sucursales Krispy Kreme dentro de la Cobertura Geográfica excepto en productos y/o sucursales que se encuentren en Liverpool, Fábricas de Francia, Tiendas Oxxo y Chedraui.",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -111,7 +149,10 @@ const detalle = [
     ComoAplicarlo:
       "Solicita la promoción en caja con el código 106478 y paga con tu tarjeta baz",
     Restricciones:
-      "- Aplican restricciones, el cliente deberá consultarlas las restricciones previamente en cada laboratorio.<br/>- Este descuento aplica solo en estudios de laboratorio que podra consultar directamente en sucursal.<br/>- El beneficio no podrá ser canjeable por dinero en efectivo.<br/>- Aplica solo en sucursal, no aplica en línea.",
+      "- Aplican restricciones, el cliente deberá consultar las restricciones previamente en cada laboratorio.<br/>" +
+      "- Este descuento aplica solo en estudios de laboratorio que podra consultar directamente en sucursal.<br/>" +
+      "- El beneficio no podrá ser canjeable por dinero en efectivo.<br/>" +
+      "- Aplica solo en sucursal, no aplica en línea.",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -127,7 +168,10 @@ const detalle = [
     ComoAplicarlo:
       "Solicita la promoción en caja con el código 106478 y paga con tu tarjeta baz",
     Restricciones:
-      "- Aplican restricciones, el cliente deberá consultarlas las restricciones previamente en cada laboratorio.<br/>- Este descuento aplica solo en estudios de gabinete que podra consultar directamente en sucursal.<br/>- El beneficio no podrá ser canjeable por dinero en efectivo.<br/>- Aplica solo en sucursal, no aplica en línea.",
+      "- Aplican restricciones, el cliente deberá consultar las restricciones previamente en cada laboratorio.<br/>" +
+      "- Este descuento aplica solo en estudios de gabinete que podra consultar directamente en sucursal.<br/>" +
+      "- El beneficio no podrá ser canjeable por dinero en efectivo.<br/>" +
+      "- Aplica solo en sucursal, no aplica en línea.",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -143,7 +187,10 @@ const detalle = [
     ComoAplicarlo:
       "Solicita la promoción en caja con el código 106478 y paga con tu tarjeta baz",
     Restricciones:
-      "- Aplican restricciones, el cliente deberá consultarlas las restricciones previamente en cada laboratorio.<br/>- Este descuento aplica solo en estudios especiales que podra consultar directamente en sucursal.<br/>- El beneficio no podrá ser canjeable por dinero en efectivo.<br/>- Aplica solo en sucursal, no aplica en línea.",
+      "- Aplican restricciones, el cliente deberá consultar las restricciones previamente en cada laboratorio.<br/>" +
+      "- Este descuento aplica solo en estudios especiales que podra consultar directamente en sucursal.<br/>" +
+      "- El beneficio no podrá ser canjeable por dinero en efectivo.<br/>" +
+      "- Aplica solo en sucursal, no aplica en línea.",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -159,7 +206,10 @@ const detalle = [
     ComoAplicarlo:
       "Solicita la promoción en caja con el código 106478 y paga con tu tarjeta baz",
     Restricciones:
-      "- Aplican restricciones, el cliente deberá consultarlas las restricciones previamente en cada laboratorio.<br/>- Este descuento aplica adicional a las promociones de sucursal que podra consultar directamente en sucursal.<br/>- El beneficio no podrá ser canjeable por dinero en efectivo.<br/>- Aplica solo en sucursal, no aplica en línea.",
+      "- Aplican restricciones, el cliente deberá consultar las restricciones previamente en cada laboratorio.<br/>" +
+      "- Este descuento aplica adicional a las promociones de sucursal que podra consultar directamente en sucursal.<br/>" +
+      "- El beneficio no podrá ser canjeable por dinero en efectivo.<br/>" +
+      "- Aplica solo en sucursal, no aplica en línea.",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -167,7 +217,7 @@ const detalle = [
   {
     Empresa: "Devlyn",
     Id: 11,
-    Imagen: "img/chopo.png",
+    Imagen: "img/devlyn.png",
     Highlight: "15%",
     Texto: "descuento en armazones y más",
     Vigencia: "12/31/2022",
@@ -175,7 +225,10 @@ const detalle = [
       "15 de descuento en armazones oftálmicos y lentes con el convenio 350",
     ComoAplicarlo: "Menciona el convenio 350 en caja y paga con tu tarjeta baz",
     Restricciones:
-      "- Aplican restricciones, el cliente deberá consultarlas las restricciones previamente en cada laboratorio.<br/>- Este descuento aplica adicional a las promociones de sucursal que podra consultar directamente en sucursal.<br/>- El beneficio no podrá ser canjeable por dinero en efectivo.<br/>- Aplica solo en sucursal, no aplica en línea.",
+      "- Aplican restricciones, el cliente deberá consultar las restricciones previamente en cada laboratorio.<br/>" +
+      "- Este descuento aplica adicional a las promociones de sucursal que podra consultar directamente en sucursal.<br/>" +
+      "- El beneficio no podrá ser canjeable por dinero en efectivo.<br/>" +
+      "- Aplica solo en sucursal, no aplica en línea.",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -207,7 +260,11 @@ const detalle = [
     MensajeLargo: "15% de descuento en la compra de anteojos completos",
     ComoAplicarlo: "Menciona la promoción en caja y paga con tu tarjeta baz",
     Restricciones:
-      "- La promoción es aplicable únicamente durante el periodo de vigencia.<br/>- No aplica con otras promociones o descuentos.<br/>- No aplica en meses sin intereses.<br/>- Aplican restricciones.<br/>- Válido en la compra de anteojos completos",
+      "- La promoción es aplicable únicamente durante el periodo de vigencia.<br/>" +
+      "- No aplica con otras promociones o descuentos.<br/>" +
+      "- No aplica en meses sin intereses.<br/>" +
+      "- Aplican restricciones.<br/>" +
+      "- Válido en la compra de anteojos completos",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -223,7 +280,11 @@ const detalle = [
       "25% de descuento los lunes medicamentos genéricos, suplementos y vitaminas",
     ComoAplicarlo:
       "Menciona el código 00000150 en caja y paga con tu tarjeta baz",
-    Restricciones: "",
+    Restricciones:
+      "- La promoción es aplicable únicamente durante el periodo de vigencia y en los días establecidos en el apartado de beneficios.<br/>" +
+      "- No acumulable con otras promociones o descuentos.<br/>" +
+      "- No aplica en mercancía de rebaja.<br/>" +
+      "- El descuento del 25% solo aplica los días lunes durante la vigencia de la promoción.",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -239,7 +300,11 @@ const detalle = [
       "10% de descuento en medicamentos genéricos, suplementos y vitaminas (martes a domingo)",
     ComoAplicarlo:
       "Menciona el código 00000150 en caja y paga con tu tarjeta baz",
-    Restricciones: "",
+    Restricciones:
+      "- La promoción es aplicable únicamente durante el periodo de vigencia y en los días establecidos en el apartado de beneficios.<br/>" +
+      "- No acumulable con otras promociones o descuentos.<br/>" +
+      "- No aplica en mercancía de rebaja.<br/>" +
+      "- El descuento del 10% aplica solo de martes a domingo durante la vigencia de la promoción.<br/>",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -255,7 +320,13 @@ const detalle = [
     ComoAplicarlo:
       "Comunícate al Instituto, menciona la promoción y paga con tu tarjeta baz en la fecha indicada",
     Restricciones:
-      "- Para hacer válida la promoción, es importante que el cliente realice su pago en la semana correspondiente que le indiquen en el Instituto.<br/>- En caso de no ejercer el pago en los plazos indicados, el descuento no será aplicable.<br/>- No aplica para el costo de los materiales didácticos, certificaciones, cursos o programas especiales o cualquier otro servicio distinto a los cursos.<br/>- Para hacer válidos los descuentos, el alumno deberá cubrir el importe del mismo a través del pago en ventanillas de la institución que indique Harmon Hall con la referencia que le será entregada en el instituto Harmon Hall.<br/>- No aplica con otras promociones o descuentos.<br/>- El importe del descuento dependerá del curso al que se inscriba, por lo que es necesario que el cliente cotice y mencione la promoción directamente en Harmon Hall.<br/>- El descuento aplica para clientes nuevos o existentes de Harmon Hall.",
+      "- Para hacer válida la promoción, es importante que el cliente realice su pago en la semana correspondiente que le indiquen en el Instituto.<br/>" +
+      "- En caso de no ejercer el pago en los plazos indicados, el descuento no será aplicable.<br/>" +
+      "- No aplica para el costo de los materiales didácticos, certificaciones, cursos o programas especiales o cualquier otro servicio distinto a los cursos.<br/>" +
+      "- Para hacer válidos los descuentos, el alumno deberá cubrir el importe del mismo a través del pago en ventanillas de la institución que indique Harmon Hall con la referencia que le será entregada en el instituto Harmon Hall.<br/>" +
+      "- No aplica con otras promociones o descuentos.<br/>" +
+      "- El importe del descuento dependerá del curso al que se inscriba, por lo que es necesario que el cliente cotice y mencione la promoción directamente en Harmon Hall.<br/>" +
+      "- El descuento aplica para clientes nuevos o existentes de Harmon Hall.",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -270,7 +341,11 @@ const detalle = [
     MensajeLargo: "15% de descuento en mercancía de línea",
     ComoAplicarlo:
       "Ingresa el código BANCOAZTECA-15% y paga con tu tarjeta baz",
-    Restricciones: "",
+    Restricciones:
+      "- Aplica solo en compras con un monto mínimo de $899.00 (Ochocientos noventa y nueve pesos, 00/100 M.N.)<br/>" +
+      "- La promoción es aplicable únicamente durante el periodo de vigencia.<br/>" +
+      "- No acumulable con otras promociones o descuentos.<br/>" +
+      "- No aplica en mercancía de rebaja.<br/>",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -286,7 +361,10 @@ const detalle = [
     ComoAplicarlo:
       "Menciona el código CNV 1535 al pagar en caja con tu tarjeta baz",
     Restricciones:
-      "- Aplica en mercancía de temporada, misma que se encontrará señalada en la sucursal JULIO.<br/>- No es válido en Palacio de Hierro, Liverpool, Outles, ni franquicias.<br/>- No es acumulable con otras promociones<br/>- No aplica para compras en línea.<br/>- Aplica en las sucursales JULIO dentro de la cobertura geográfica de la promoción (Aguascalientes, Campeche, Chiapas, Ciudad de México, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Michoacán, Morelos, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Tabasco, Tamaulipas, Veracruz, Yucatán y Zacatecas).",
+      "- Aplica en mercancía de temporada, misma que se encontrará señalada en la sucursal JULIO.<br/>" +
+      "- No es válido en Palacio de Hierro, Liverpool, Outles, ni franquicias.<br/>" +
+      "- No es acumulable con otras promociones<br/>- No aplica para compras en línea.<br/>" +
+      "- Aplica en las sucursales JULIO dentro de la cobertura geográfica de la promoción (Aguascalientes, Campeche, Chiapas, Ciudad de México, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, Michoacán, Morelos, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Tabasco, Tamaulipas, Veracruz, Yucatán y Zacatecas).",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -303,7 +381,8 @@ const detalle = [
     ComoAplicarlo:
       "Usa el código RUDOS2021 en www.rudos.mx y paga con tu tarjeta baz",
     Restricciones:
-      "- Aplica en zapatos para toda la familia (hombres, mujeres y niños).<br/>- No aplica en productos en oferta ni con otras promociones.",
+      "- Aplica en zapatos para toda la familia (hombres, mujeres y niños).<br/>" +
+      "- No aplica en productos en oferta ni con otras promociones.",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -319,7 +398,14 @@ const detalle = [
     ComoAplicarlo:
       "Paga con tu tarjeta baz en caja o en línea. (En línea ingresa el código PROMO-AZTECA)",
     Restricciones:
-      "- Solo aplica en la compra artículos de temporada.<br/>- Las existencias están sujetas a la existencia en cada tienda y a tienda en línea.<br/>- El descuento no es reembolsable en caso de devoluciones o cancelaciones.<br/>- No es válido el descuento al realizar pedidos en la sección para afiliados.<br/>- No aplican descuentos sobre precio preferencial a afiliadas.<br/>- No es necesario estar afiliado para hacer válido el descuento.<br/>- El descuento no aplica en envíos.<br/>- La promoción en tiendas físicas es válida únicamente en tiendas oficiales: Guadalajara: Ramón Corona #181; CDMX: Norte #45 1032 Local 1; Villahermosa: Av. Juan Álvarez #605; León: Av. Industriales No. 104 y Puebla: Blvd. Norte #110.",
+      "- Solo aplica en la compra artículos de temporada.<br/>" +
+      "- Las existencias están sujetas a la existencia en cada tienda y a tienda en línea.<br/>" +
+      "- El descuento no es reembolsable en caso de devoluciones o cancelaciones.<br/>" +
+      "- No es válido el descuento al realizar pedidos en la sección para afiliados.<br/>" +
+      "- No aplican descuentos sobre precio preferencial a afiliadas.<br/>" +
+      "- No es necesario estar afiliado para hacer válido el descuento.<br/>" +
+      "- El descuento no aplica en envíos.<br/>" +
+      "- La promoción en tiendas físicas es válida únicamente en tiendas oficiales: Guadalajara: Ramón Corona #181; CDMX: Norte #45 1032 Local 1; Villahermosa: Av. Juan Álvarez #605; León: Av. Industriales No. 104 y Puebla: Blvd. Norte #110.",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -336,7 +422,13 @@ const detalle = [
     ComoAplicarlo:
       "Menciona la promoción y paga con tu tarjeta baz en taquilla",
     Restricciones:
-      "- No aplica con otras promociones, sujeto a cambio sin previo aviso.<br/>- La bonificación se hace en saldo en bonus cargado en la Recorcard.<br/>- La bonificación no puede ser canjeable por dinero en efectivo.<br/>- La promoción es válida todos los días durante la vigencia de la promoción.<br/>- No aplica descuento en la compra de Recorcard n- No aplica en ventas online.<br/>- La promoción aplica únicamente en Ciudad de México, Guanajuato, Jalisco, Querétaro, Estado de México, Chiapas, Yucatán, Coahuila, Morelos, Sonora, Nayarit, Aguascalientes, Tamaulipas y Tabasco.",
+      "- No aplica con otras promociones, sujeto a cambio sin previo aviso.<br/>" +
+      "- La bonificación se hace en saldo en bonus cargado en la Recorcard.<br/>" +
+      "- La bonificación no puede ser canjeable por dinero en efectivo.<br/>" +
+      "- La promoción es válida todos los días durante la vigencia de la promoción.<br/>" +
+      "- No aplica descuento en la compra de Recorcard<br/>" +
+      "- No aplica en ventas online.<br/>" +
+      "- La promoción aplica únicamente en Ciudad de México, Guanajuato, Jalisco, Querétaro, Estado de México, Chiapas, Yucatán, Coahuila, Morelos, Sonora, Nayarit, Aguascalientes, Tamaulipas y Tabasco.",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -348,10 +440,16 @@ const detalle = [
     Highlight: "$40",
     Texto: "descuento en Kataporte",
     Vigencia: "12/31/2022",
-    MensajeLargo: "Kataporte de $190 a $150 pesos",
+    MensajeLargo: "de descuento en Kataporte ($190 a $150 pesos)",
     ComoAplicarlo:
       "Menciona la promoción y paga con tu tarjeta baz en taquilla",
-    Restricciones: "",
+    Restricciones:
+      "- No aplica con otras promociones, sujeto a cambio sin previo aviso. <br/>" +
+      "- La vigencia del Kataporte será válido únicamente para la fecha que seleccionas al adquirirlo.<br/>" +
+      "- La promoción es válida todos los días del año. <br/>" +
+      "- No hay límite en la compra de Kataportes.<br/>" +
+      "- El Kataporte es un brazalete electrónico, personal e intransferible con el que podrás tener acceso a 30 diferentes juegos y atracciones excepto Kids, Vértigo, Gran Premio, Pabellón Norma y Juegos de destreza. <br/>" +
+      "- No aplica en ventas on line.<br/>",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -365,8 +463,11 @@ const detalle = [
     Vigencia: "04/30/2022",
     MensajeLargo: "50% de descuento en los primeros 4 viajes o envíos",
     ComoAplicarlo:
-      "-Promoción válida solo para primerso usuarios durante los primeros 30 días de ingresos como nuevo usuario durante la vigencia de la promoción. <br/> -No válido con otras promociones o descuentos. <br/> -Descuento máximo $50.00 MXN (ciencuenta pesos, 00/100M.N.)",
-    Restricciones: "",
+      "Utiliza el código BANCOAZTECA21 en tu app de Cabify y paga con tu tarjeta baz",
+    Restricciones: 
+	"- Promoción válida solo para primeros usuarios durante los primeros 30 días de ingreso como nuevo usuario durante la vigencia de la promoción.<br>" + 
+	"- No válido con otras promociones o descuentos.<br>" + 
+	"- Descuento máximo $50.00 MXN (cincuenta pesos, 00/100 M.N.).<br>",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -382,7 +483,9 @@ const detalle = [
     ComoAplicarlo:
       "Menciona el código VIVEPLUS10 en Centro de Atención a Clientes ClickBus y paga con tu tarjeta baz",
     Restricciones:
-      "- Llamar al centro de atención a clientes de Clickbus al teléfono 55 5350 8737.<br/>- No aplica con otras promociones o descuentos.<br/>- Aplican restricciones. Para conocer las restricciones y rutas aplicables el cliente deberá llamar al 55 5350 8737.",
+      "- Llamar al centro de atención a clientes de Clickbus al teléfono 55 5350 8737.<br/>" +
+      "- No aplica con otras promociones o descuentos.<br/>" +
+      "- Aplican restricciones. Para conocer las restricciones y rutas aplicables el cliente deberá llamar al 55 5350 8737.",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -391,7 +494,8 @@ const detalle = [
 
 const verDetalle = (element) => {
   let date = new Date(element.Vigencia);
-  let fecha = date.getDate() + "/" + (date.getMonth()+1) + "/" + date.getFullYear();
+  let fecha =
+    date.getDate() + "/" + (date.getMonth() + 1) + "/" + date.getFullYear();
   let container = document.querySelector(".container");
 
   container.innerHTML += `
