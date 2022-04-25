@@ -128,12 +128,12 @@ const detalle = [
     MensajeLargo: "10% de descuento en el total de la cuenta",
     ComoAplicarlo: "Menciona la promoción y paga con tu tarjeta baz en caja",
     Restricciones:
-      "- No aplica con otras promociones o descuentos." +
-      "- No aplica en la compra de artículos coleccionables ni bebidas embotelladas." +
-      "- El beneficio no podrá ser cambiado por dinero en efectivo." +
-      "- No aplica en cancelaciones o devoluciones." +
-      "- La promoción es aplicable únicamente durante el periodo de vigencia de la promoción." +
-      "- La promoción aplica en compras directas en todas las sucursales Krispy Kreme dentro de la Cobertura Geográfica excepto en productos y/o sucursales que se encuentren en Liverpool, Fábricas de Francia, Tiendas Oxxo y Chedraui.",
+      "- No aplica con otras promociones o descuentos.<br/>" +
+      "- No aplica en la compra de artículos coleccionables ni bebidas embotelladas.<br/>" +
+      "- El beneficio no podrá ser cambiado por dinero en efectivo.<br/>" +
+      "- No aplica en cancelaciones o devoluciones.<br/>" +
+      "- La promoción es aplicable únicamente durante el periodo de vigencia de la promoción.<br/>" +
+      "- La promoción aplica en compras directas en todas las sucursales Krispy Kreme dentro de la Cobertura Geográfica excepto en productos y/o sucursales que se encuentren en Liverpool, Fábricas de Francia, Tiendas Oxxo y Chedraui.<br/>",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
@@ -225,10 +225,9 @@ const detalle = [
       "15 de descuento en armazones oftálmicos y lentes con el convenio 350",
     ComoAplicarlo: "Menciona el convenio 350 en caja y paga con tu tarjeta baz",
     Restricciones:
-      "- Aplican restricciones, el cliente deberá consultar las restricciones previamente en cada laboratorio.<br/>" +
-      "- Este descuento aplica adicional a las promociones de sucursal que podra consultar directamente en sucursal.<br/>" +
-      "- El beneficio no podrá ser canjeable por dinero en efectivo.<br/>" +
-      "- Aplica solo en sucursal, no aplica en línea.",
+      "- Aplica en adquisición de armazones oftálmicos, lentes de cristal o plástico, lentes de contacto graduados, lentes solares, limpieza y ajuste de lentes.<br/>" +
+      "- No aplica en lentes de contacto graduados de color.<br/>" +
+      "- No válido en concesiones, tiendas dentro de FAMSA, SAMS, SEARS, COPPEL, CHAPUR, HEB, CIMACO, Y CHEDRAUI.<br/>",
     TyCt: "Consulta términos y condiciones",
     TyCl: "aquí",
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
