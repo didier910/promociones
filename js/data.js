@@ -145,14 +145,6 @@ const promociones = [
   },
   {
     id: 19,
-    empresa: "flexi",
-    urlImg: "img/flexi.png",
-    highLight: "10%",
-    desc: "descuento en calzado",
-    vigencia: "04/30/2022",
-  },
-  {
-    id: 20,
     empresa: "Rinna Bruni",
     urlImg: "img/rb.png",
     highLight: "10%",
@@ -160,7 +152,7 @@ const promociones = [
     vigencia: "06/30/2022",
   },
   {
-    id: 21,
+    id: 20,
     empresa: "¡Recórcholis!",
     urlImg: "img/recorcholis.png",
     highLight: "$150",
@@ -168,7 +160,7 @@ const promociones = [
     vigencia: "12/31/2022",
   },
   {
-    id: 22,
+    id: 21,
     empresa: "¡KATAPLUM!",
     urlImg: "img/kataplum.png",
     highLight: "$40",
@@ -176,15 +168,7 @@ const promociones = [
     vigencia: "12/31/2022",
   },
   {
-    id: 23,
-    empresa: "Cabify",
-    urlImg: "img/cabify.png",
-    highLight: "50%",
-    desc: "descuento en viajes",
-    vigencia: "04/30/2022",
-  },
-  {
-    id: 24,
+    id: 22,
     empresa: "ClickBus",
     urlImg: "img/clickbus.png",
     highLight: "10%",

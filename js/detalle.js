@@ -369,26 +369,8 @@ const detalle = [
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
   },
   {
-    Empresa: "flexi",
-    Id: 19,
-    Imagen: "img/flexi.png",
-    Highlight: "10%",
-    Texto: "descuento en calzado",
-    Vigencia: "04/30/2022",
-    MensajeLargo:
-      "10% de descuento en el total de la compra en zapatos para toda la familia",
-    ComoAplicarlo:
-      "Usa el código RUDOS2021 en www.rudos.mx y paga con tu tarjeta baz",
-    Restricciones:
-      "- Aplica en zapatos para toda la familia (hombres, mujeres y niños).<br/>" +
-      "- No aplica en productos en oferta ni con otras promociones.",
-    TyCt: "Consulta términos y condiciones",
-    TyCl: "aquí",
-    TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
-  },
-  {
     Empresa: "Rinna Bruni",
-    Id: 20,
+    Id: 19,
     Imagen: "img/rb.png",
     Highlight: "10%",
     Texto: "de descuento",
@@ -411,7 +393,7 @@ const detalle = [
   },
   {
     Empresa: "¡Recórcholis!",
-    Id: 21,
+    Id: 20,
     Imagen: "img/recorcholis.png",
     Highlight: "$150",
     Texto: "adicionales al recargar",
@@ -434,7 +416,7 @@ const detalle = [
   },
   {
     Empresa: "¡KATAPLUM!",
-    Id: 22,
+    Id: 21,
     Imagen: "img/kataplum.png",
     Highlight: "$40",
     Texto: "descuento en Kataporte",
@@ -454,26 +436,8 @@ const detalle = [
     TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
   },
   {
-    Empresa: "Cabify",
-    Id: 23,
-    Imagen: "img/cabify.png",
-    Highlight: "50%",
-    Texto: "descuento en viajes",
-    Vigencia: "04/30/2022",
-    MensajeLargo: "50% de descuento en los primeros 4 viajes o envíos",
-    ComoAplicarlo:
-      "Utiliza el código BANCOAZTECA21 en tu app de Cabify y paga con tu tarjeta baz",
-    Restricciones: 
-	"- Promoción válida solo para primeros usuarios durante los primeros 30 días de ingreso como nuevo usuario durante la vigencia de la promoción.<br>" + 
-	"- No válido con otras promociones o descuentos.<br>" + 
-	"- Descuento máximo $50.00 MXN (cincuenta pesos, 00/100 M.N.).<br>",
-    TyCt: "Consulta términos y condiciones",
-    TyCl: "aquí",
-    TyCs: "https://www.bancoazteca.com.mx/promociones-y-descuentos.html",
-  },
-  {
     Empresa: "ClickBus",
-    Id: 24,
+    Id: 22,
     Imagen: "img/clickbus.png",
     Highlight: "10%",
     Texto: "de descuento",
